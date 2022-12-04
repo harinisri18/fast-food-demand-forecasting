@@ -1,4 +1,4 @@
-# Foundations-of-Data-Analytics-Project
+# Fast food demand forecasting
  
 
 Demand forecasting is a key component to every growing online business. Without proper demand forecasting processes in place,it can be nearly impossible to have the right amount of stock on hand at any given time. A food delivery service has to dealwith a lot of perishable raw materials which makes it all the more important for such a company to accurately forecast daily and weekly demand.
