@@ -30,6 +30,8 @@ Exponentially weighted mean over last 10, 11, and 12 weeks.
 
 Cross validation
 Last 10 weeks (136 - 145) of every center-meal pair data is used as a Validation dataset from train dataset.
+
+
 Model
 Comparison between catboost , XGB boost , decision tree and the model with best accuracy and Rmse is took for prediction.
 High regularization so it does not overfit because of new features made using target variable.
